@@ -48,4 +48,6 @@ public class SpringbootElasticApplicationTests {
         bookRepository.index(book);
     }
 
+
+
 }
